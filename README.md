@@ -1,5 +1,7 @@
 # Welcome to my TIS REPOSITORY!
 
+In this course, I learned hardware, software, network, communications, database,and system analysis and design.
+
 Reflection on this course:
 
 -Industry Talk Poster on Career Development
